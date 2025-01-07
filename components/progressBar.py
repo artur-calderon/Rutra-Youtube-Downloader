@@ -61,10 +61,8 @@ class ProgressBar(ft.Row):
             self.fileName.value = status['filename']
             self.percent.value = f"Progresso: {status['_percent_str']}"
             self.tempoRestante.value = f"Tempo restante: {status['_eta_str']}"
-            self.modalProgress.open = True
-        elif status['status'] == 'finished':
             self.fecharModalButton.visible = True
-            self.update()
+            self.modalProgress.open = True
         elif self.stopDownload:
             self.status.value = "Download Cancelado"
             raise yt_dlp.DownloadError("Download Cancelado")
