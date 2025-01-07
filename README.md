@@ -1,6 +1,6 @@
 # Rutra YouTube Downloader App
 
-![YouTube Downloader](https://img.shields.io/badge/python-3.x-blue.svg)
+![YouTube Downloader](https://img.shields.io/badge/python-3.13.0-blue.svg)
 ![Flet](https://img.shields.io/badge/Flet-0.5-green.svg)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-latest-orange.svg)
 
@@ -18,7 +18,7 @@
 ---
 
 ## **Tecnologias Utilizadas**
-- [Python 3.x](https://www.python.org/downloads/)
+- [Python 3.13.0](https://www.python.org/downloads/)
 - [Flet](https://flet.dev/) - Biblioteca para criação de interfaces gráficas modernas.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Ferramenta para download de vídeos e áudios.
 
