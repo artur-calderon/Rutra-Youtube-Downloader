@@ -5,7 +5,9 @@
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-latest-orange.svg)
 
 **YouTube Downloader App** é uma aplicação simples e intuitiva para download de vídeos e áudios do YouTube, desenvolvida com Python, utilizando as bibliotecas **Flet** para interface gráfica e **yt-dlp** para gerenciamento dos downloads.
-
+![Captura de Tela](images/Rutra1.png)
+![Captura de Tela](images/Rutra2.png)
+![Captura de Tela](images/Rutra3.png)
 ---
 
 ## **Recursos**
