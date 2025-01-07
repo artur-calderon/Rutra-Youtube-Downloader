@@ -40,3 +40,4 @@ Abra o terminal ou prompt de comando e execute:
 ```bash
 git clone https://github.com/artur-calderon/Rutra-Youtube-Downloader.git
 cd youtube-downloader-app
+flet run
